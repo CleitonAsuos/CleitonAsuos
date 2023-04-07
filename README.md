@@ -1,16 +1,20 @@
-### Hi there 👋
+## Olá! Eu sou o Cleiton Sousa
 
-<!--
-**CleitonAsuos/CleitonAsuos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/CleitonAsuos">
+</div>
 
-Here are some ideas to get you started:
+- 🔭 Hoje trabalho com suporte técnico
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+<img align="center" alt="Cleiton-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+
+
+ ##
+ 
+<div> 
+  <a href="https://www.instagram.com/nxtielc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+  
+</div>
