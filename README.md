@@ -4,7 +4,7 @@
   <a href="https://github.com/CleitonAsuos">
 </div>
 
-- 🔭 Hoje trabalho com suporte técnico
+- 🔭 Atualmente trabalho com suporte técnico
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 
 <div style="display: inline_block"><br>
