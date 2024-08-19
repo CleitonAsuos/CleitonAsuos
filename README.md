@@ -4,7 +4,7 @@
   <a href="https://github.com/CleitonAsuos">
 </div>
 
-- 🔭 Atualmente trabalho com Suporte Técnico
+- 🔭 Atualmente trabalho como Coordenador de TI
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 
 <div style="display: inline_block"><br>
